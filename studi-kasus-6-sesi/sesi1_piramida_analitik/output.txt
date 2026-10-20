@@ -1,0 +1,31 @@
+=== 0. DATA PREPARATION (60-70% waktu kerja analis) ===
+Masalah ditemukan & diperbaiki: {'kosong': 3, 'negatif': 1, 'outlier': 1}
+
+=== 1. DESCRIPTIVE: apa yang terjadi? ===
+Total terjual : 23,131 cangkir | Rata-rata/hari: 128.5
+tanggal
+2025-01    117.5
+2025-02    121.3
+2025-03    126.8
+2025-04    128.0
+2025-05    137.7
+2025-06    139.7
+Freq: M
+
+=== 2. DIAGNOSTIC: mengapa terjadi? ===
+Promo    : tanpa=121.8 | dengan=149.4
+Weekend  : weekday=121.8 | weekend=145.0
+
+=== 3. PREDICTIVE: apa yang akan terjadi? ===
+MAE data uji (30 hari terakhir): 6.42 cangkir
+
+=== 4. PRESCRIPTIVE: apa yang harus dilakukan? ===
+(efek promo model: +28.9 cangkir, kapasitas 170/hari)
+            prediksi  untung_promo  rekomendasi
+Mon 30-Jun     128.0       80846.0        PROMO
+Tue 01-Jul     128.0       80846.0        PROMO
+Wed 02-Jul     128.0       80846.0        PROMO
+Thu 03-Jul     128.0       80846.0        PROMO
+Fri 04-Jul     129.0       80846.0        PROMO
+Sat 05-Jul     153.0      -13716.0  tanpa promo
+Sun 06-Jul     153.0      -14915.0  tanpa promo

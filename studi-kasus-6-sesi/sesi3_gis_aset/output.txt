@@ -1,0 +1,17 @@
+=== Ringkasan per depot ===
+         jumlah  rata_jarak_km  total_km
+depot                                   
+Selatan      17           3.78     64.23
+Timur        26           3.82     99.22
+Utara        17           3.70     62.84
+
+Jarak total jika SEMUA dari depot Utara : 478.0 km
+Jarak total dengan depot terdekat       : 226.3 km
+
+=== 5 aset prioritas utama ===
+    id   depot  kerusakan  jarak_km
+LJ-051   Timur          3      1.56
+LJ-006   Utara          3      1.60
+LJ-060   Timur          3      1.87
+LJ-048   Timur          3      2.24
+LJ-007 Selatan          3      2.43

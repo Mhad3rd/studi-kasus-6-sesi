@@ -1,0 +1,12 @@
+=== A. Overfitting vs Underfitting (Decision Tree) ===
+depth= 1 | train=0.711 | test=0.736 | gap=-0.025
+depth= 2 | train=0.748 | test=0.763 | gap=-0.016
+depth= 3 | train=0.804 | test=0.773 | gap=+0.030
+depth= 5 | train=0.845 | test=0.806 | gap=+0.039
+depth= 8 | train=0.922 | test=0.843 | gap=+0.079
+depth=12 | train=0.980 | test=0.836 | gap=+0.144
+depth=20 | train=1.000 | test=0.833 | gap=+0.167
+
+=== B. Audit Bias (Logistic Regression) ===
+Dengan atribut grup          acc=0.867 | setuju A=47.8% B=24.8% | disparate impact=0.52 (BIAS <0.80)
+Tanpa atribut grup           acc=0.862 | setuju A=41.0% B=32.2% | disparate impact=0.79 (BIAS <0.80)

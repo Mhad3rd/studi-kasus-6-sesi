@@ -1,0 +1,8 @@
+Total per wilayah:
+ Papua          372.0
+Sulawesi       649.0
+Kalimantan     694.0
+Sumatra        971.0
+Jawa          1796.0
+
+Filter 'Jawa' -> puncak penjualan di Apr = 189.8 unit, rata-rata 149.6

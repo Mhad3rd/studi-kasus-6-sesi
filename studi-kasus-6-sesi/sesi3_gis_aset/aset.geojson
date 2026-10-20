@@ -1,0 +1,965 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.64075843807449,
+     -6.888737589341393
+    ]
+   },
+   "properties": {
+    "id": "LJ-001",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 4.001
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.64569948711825,
+     -6.853362205873955
+    ]
+   },
+   "properties": {
+    "id": "LJ-002",
+    "kerusakan": 1,
+    "depot": "Utara",
+    "jarak_km": 5.099
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.65146753657191,
+     -6.869160860268125
+    ]
+   },
+   "properties": {
+    "id": "LJ-003",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 4.981
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57261820287525,
+     -6.940723065301222
+    ]
+   },
+   "properties": {
+    "id": "LJ-004",
+    "kerusakan": 2,
+    "depot": "Selatan",
+    "jarak_km": 3.194
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.61604702007823,
+     -6.93097838296154
+    ]
+   },
+   "properties": {
+    "id": "LJ-005",
+    "kerusakan": 2,
+    "depot": "Selatan",
+    "jarak_km": 2.759
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.58593459427443,
+     -6.856438052098486
+    ]
+   },
+   "properties": {
+    "id": "LJ-006",
+    "kerusakan": 3,
+    "depot": "Utara",
+    "jarak_km": 1.603
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.6103747447156,
+     -6.969315510406475
+    ]
+   },
+   "properties": {
+    "id": "LJ-007",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 2.434
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.56450561408975,
+     -6.8632403056102405
+    ]
+   },
+   "properties": {
+    "id": "LJ-008",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 3.935
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.69517420765733,
+     -6.866380974262234
+    ]
+   },
+   "properties": {
+    "id": "LJ-009",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 5.59
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.58225060560338,
+     -6.909168456130316
+    ]
+   },
+   "properties": {
+    "id": "LJ-010",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 4.945
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.65076477439169,
+     -6.930605784513489
+    ]
+   },
+   "properties": {
+    "id": "LJ-011",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 3.124
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.59506301222186,
+     -6.933804670426899
+    ]
+   },
+   "properties": {
+    "id": "LJ-012",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 1.881
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68111155392243,
+     -6.936866953604963
+    ]
+   },
+   "properties": {
+    "id": "LJ-013",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 3.229
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.64933221075077,
+     -6.912140080235256
+    ]
+   },
+   "properties": {
+    "id": "LJ-014",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 2.294
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.56974237237124,
+     -6.904408726335466
+    ]
+   },
+   "properties": {
+    "id": "LJ-015",
+    "kerusakan": 3,
+    "depot": "Utara",
+    "jarak_km": 5.962
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.67676114813119,
+     -6.898045344230316
+    ]
+   },
+   "properties": {
+    "id": "LJ-016",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 1.524
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.69174222567175,
+     -6.840584963153529
+    ]
+   },
+   "properties": {
+    "id": "LJ-017",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 8.083
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.6855875182294,
+     -6.866953950502212
+    ]
+   },
+   "properties": {
+    "id": "LJ-018",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 5.086
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.63545787217889,
+     -6.889116700172648
+    ]
+   },
+   "properties": {
+    "id": "LJ-019",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 4.465
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57181899306414,
+     -6.841435180801355
+    ]
+   },
+   "properties": {
+    "id": "LJ-020",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 3.734
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57886952424525,
+     -6.942009869229372
+    ]
+   },
+   "properties": {
+    "id": "LJ-021",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 2.496
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68918585271169,
+     -6.94917243559848
+    ]
+   },
+   "properties": {
+    "id": "LJ-022",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 4.843
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.63284897315009,
+     -6.890369851444506
+    ]
+   },
+   "properties": {
+    "id": "LJ-023",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 4.646
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57708287476734,
+     -6.96428753896502
+    ]
+   },
+   "properties": {
+    "id": "LJ-024",
+    "kerusakan": 2,
+    "depot": "Selatan",
+    "jarak_km": 2.987
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68260853412947,
+     -6.965361563759433
+    ]
+   },
+   "properties": {
+    "id": "LJ-025",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 6.311
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.64623575578338,
+     -6.903064453364721
+    ]
+   },
+   "properties": {
+    "id": "LJ-026",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 2.734
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.63545414117107,
+     -6.909393216707712
+    ]
+   },
+   "properties": {
+    "id": "LJ-027",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 3.814
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.60644317541949,
+     -6.8507681894849295
+    ]
+   },
+   "properties": {
+    "id": "LJ-028",
+    "kerusakan": 1,
+    "depot": "Utara",
+    "jarak_km": 1.249
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.61164329232356,
+     -6.888200586916168
+    ]
+   },
+   "properties": {
+    "id": "LJ-029",
+    "kerusakan": 1,
+    "depot": "Utara",
+    "jarak_km": 3.389
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.58592338190228,
+     -6.903164705942063
+    ]
+   },
+   "properties": {
+    "id": "LJ-030",
+    "kerusakan": 3,
+    "depot": "Utara",
+    "jarak_km": 5.045
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.55570859300369,
+     -6.905406453398844
+    ]
+   },
+   "properties": {
+    "id": "LJ-031",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 6.963
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68143282121639,
+     -6.937823060136447
+    ]
+   },
+   "properties": {
+    "id": "LJ-032",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 3.341
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.62015953252211,
+     -6.968466776679474
+    ]
+   },
+   "properties": {
+    "id": "LJ-033",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 3.028
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.63214527988207,
+     -6.944987721281909
+    ]
+   },
+   "properties": {
+    "id": "LJ-034",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 3.592
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.59832449646703,
+     -6.88003582428536
+    ]
+   },
+   "properties": {
+    "id": "LJ-035",
+    "kerusakan": 1,
+    "depot": "Utara",
+    "jarak_km": 2.236
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.66269873797825,
+     -6.94392112588169
+    ]
+   },
+   "properties": {
+    "id": "LJ-036",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 3.857
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.55377953062026,
+     -6.921960279621713
+    ]
+   },
+   "properties": {
+    "id": "LJ-037",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 5.979
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.60582779088477,
+     -6.96951454853323
+    ]
+   },
+   "properties": {
+    "id": "LJ-038",
+    "kerusakan": 2,
+    "depot": "Selatan",
+    "jarak_km": 2.263
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.55455254415762,
+     -6.862093795125773
+    ]
+   },
+   "properties": {
+    "id": "LJ-039",
+    "kerusakan": 3,
+    "depot": "Utara",
+    "jarak_km": 5.023
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.56843381533075,
+     -6.949920059462013
+    ]
+   },
+   "properties": {
+    "id": "LJ-040",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 3.484
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.69507223530961,
+     -6.935212090406708
+    ]
+   },
+   "properties": {
+    "id": "LJ-041",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 3.939
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.64866410950577,
+     -6.8555568199824926
+    ]
+   },
+   "properties": {
+    "id": "LJ-042",
+    "kerusakan": 3,
+    "depot": "Utara",
+    "jarak_km": 5.395
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.61423303695842,
+     -6.903727194717105
+    ]
+   },
+   "properties": {
+    "id": "LJ-043",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 5.11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.62856101618657,
+     -6.859870467972437
+    ]
+   },
+   "properties": {
+    "id": "LJ-044",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 3.153
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68092138128472,
+     -6.886836768297472
+    ]
+   },
+   "properties": {
+    "id": "LJ-045",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 2.844
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.6016316000494,
+     -6.873569776842959
+    ]
+   },
+   "properties": {
+    "id": "LJ-046",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 1.52
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.63854364734345,
+     -6.958105571341804
+    ]
+   },
+   "properties": {
+    "id": "LJ-047",
+    "kerusakan": 3,
+    "depot": "Selatan",
+    "jarak_km": 4.349
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.65255265600094,
+     -6.899651303221057
+    ]
+   },
+   "properties": {
+    "id": "LJ-048",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 2.244
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.60331206655353,
+     -6.903989609280955
+    ]
+   },
+   "properties": {
+    "id": "LJ-049",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 4.905
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.6278647729744,
+     -6.856725881029925
+    ]
+   },
+   "properties": {
+    "id": "LJ-050",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 3.098
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.66478710749178,
+     -6.923035672328159
+    ]
+   },
+   "properties": {
+    "id": "LJ-051",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 1.56
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.68637689709858,
+     -6.892236071263062
+    ]
+   },
+   "properties": {
+    "id": "LJ-052",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 2.678
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57265934171151,
+     -6.962297286495084
+    ]
+   },
+   "properties": {
+    "id": "LJ-053",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 3.313
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.69001290884611,
+     -6.919607865855605
+    ]
+   },
+   "properties": {
+    "id": "LJ-054",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 2.454
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.5507768298723,
+     -6.9280052749864325
+    ]
+   },
+   "properties": {
+    "id": "LJ-055",
+    "kerusakan": 1,
+    "depot": "Selatan",
+    "jarak_km": 5.958
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.66294662553966,
+     -6.950474035220841
+    ]
+   },
+   "properties": {
+    "id": "LJ-056",
+    "kerusakan": 2,
+    "depot": "Timur",
+    "jarak_km": 4.567
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.67157902454758,
+     -6.86387604650352
+    ]
+   },
+   "properties": {
+    "id": "LJ-057",
+    "kerusakan": 1,
+    "depot": "Timur",
+    "jarak_km": 5.132
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.57051460773138,
+     -6.920671997698459
+    ]
+   },
+   "properties": {
+    "id": "LJ-058",
+    "kerusakan": 2,
+    "depot": "Selatan",
+    "jarak_km": 4.607
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.61283554763698,
+     -6.842762775026541
+    ]
+   },
+   "properties": {
+    "id": "LJ-059",
+    "kerusakan": 2,
+    "depot": "Utara",
+    "jarak_km": 2.384
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     107.67228844169927,
+     -6.89330107990862
+    ]
+   },
+   "properties": {
+    "id": "LJ-060",
+    "kerusakan": 3,
+    "depot": "Timur",
+    "jarak_km": 1.874
+   }
+  }
+ ]
+}

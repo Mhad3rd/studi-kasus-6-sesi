@@ -1,0 +1,10 @@
+=== SUS (benchmark rata-rata = 68) ===
+Prototipe A (lama): rata-rata=41.2 (SD 23.4) -> Awful
+Prototipe B (baru): rata-rata=76.9 (SD 13.1) -> Good
+Welch t-test: t=4.60, p=0.0002 -> perbedaan signifikan
+
+=== Think-Aloud Protocol (per peserta) ===
+       rata_error  rata_waktu
+versi                        
+A             3.1        92.3
+B             0.8        63.1

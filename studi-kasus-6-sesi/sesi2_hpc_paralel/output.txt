@@ -1,0 +1,5 @@
+CPU tersedia: 1 | jumlah sel grid: 64
+{'workers': 1, 'waktu_detik': 5.21, 'speedup': 1.0}
+{'workers': 2, 'waktu_detik': 6.35, 'speedup': 0.82}
+{'workers': 4, 'waktu_detik': 8.64, 'speedup': 0.6}
+Sel risiko tertinggi: 69.8% | rata-rata: 48.4%
